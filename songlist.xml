@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+
+<Songlist>
+
+  <record>
+<odd>
+    <artist>1. Randy Travis    </artist> <br />
+    <title>Deeper Than The Holler   </title>
+    <genre>Country   </genre>
+    <year>1988   </year>
+</odd>
+  </record>
+  <record>
+<even>
+    <artist>2. Darius Rucker   </artist>
+    <title>Boot Scoot Boogie   </title>
+    <genre>Country   </genre>
+    <year>1991  </year>
+</even>
+  </record>
+
+  <record>
+<odd>
+    <artist>3. Tim McGraw   </artist>
+    <title>My Little Girl   </title>
+    <genre>Country   </genre>
+    <year>2006   </year>
+</odd>
+  </record>
+
+  <record>
+<even>
+    <artist>4. Jim Croce   </artist>
+    <title>Bad Bad Leroy Brown   </title>
+    <genre>Folk Rock   </genre>
+    <year>1973   </year>
+</even>
+  </record>
+
+  <record>
+<odd>
+    <artist>5. James Taylor   </artist>
+    <title>How Sweet It Is (To Be Loved By You)   </title>
+    <genre>Folk Rock   </genre>
+    <year>1975   </year>
+</odd>
+  </record>
+
+  <record>
+<even>
+    <artist>6. The Aminals   </artist>
+    <title>House Of The Rising Sun   </title>
+    <genre>Folk Rock   </genre>
+    <year>1983   </year>
+</even>
+  </record>
+
+  <record>
+<odd>
+    <artist>7. Meghan Trainor   </artist>
+    <title>All About That Bass   </title>
+    <genre>New Pop   </genre>
+    <year>2014   </year>
+</odd>
+  </record>
+
+  <record>
+<even>
+    <artist>8. Robin Thicke   </artist>
+    <title>Blurred Lines   </title>
+    <genre>New Pop   </genre>
+    <year>2013   </year>
+</even>
+  </record>
+
+  <record>
+<odd>
+    <artist>9. Bob Carlisle   </artist>
+    <title>Butterfly Kisses    </title>
+    <genre>New Pop   </genre>
+    <year>1995   </year>
+</odd>
+  </record>
+
+  <record>
+<even>
+    <artist>10. John Legend   </artist>
+    <title>Stereo   </title>
+    <genre>R and B /Soul   </genre>
+    <year>2006   </year>
+</even>
+  </record>
+
+</Songlist>

@@ -1,0 +1,49 @@
+record {
+  display: block;
+  padding: 8px 30px;
+  font-family: monospace;
+  display: block;
+}
+
+Songlist{
+  background-image: url(guitar.png);
+  background-size: cover;
+  
+}
+artist{
+  font-size: 15px;
+  font-family: monospace;
+  color: #fff;
+  display: block;
+}
+
+title{
+  font-size: 15px;
+  font-family: cursive;
+  display: block;
+  color: #fff;
+}
+
+genre{
+  font-size: 15px;
+  font-family: monospace;
+  display: block;
+  color: #fff;
+}
+
+year{
+  font-size: 15px;
+  font-family: monospace;
+  display: block;
+  color: #fff;
+}
+
+odd{
+  position: relative;
+  margin-left: 30%;
+
+}
+even{
+  position: fixed;
+  margin-left: 50%;
+}
